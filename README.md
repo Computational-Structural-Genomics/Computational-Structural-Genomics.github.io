@@ -12,3 +12,6 @@ Out lab’s <b>Mission</b> is to develop the scientific, knowledge representatio
 Our Team's publications on PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22zimmermann+mt%22%5Bau%5D+AND+%28%22Iowa+State+University%22%5Bad%5D+OR+%22mayo+clinic%22%5Bad%5D+OR+%22Medical+college+of+Wisconsin%22%5Bad%5D%29&sort=date">Search Link<a>
 
 We are part of the <a href="https://www.mcw.edu/departments/genomic-sciences-and-precision-medicine-center-gspmc">Mellowes Center</a> at <a href="https://www.mcw.edu/">MCW</a>. 
+
+## Meet Our Amazing Team!
+<b><a href="team.html">Click here</a></b>
