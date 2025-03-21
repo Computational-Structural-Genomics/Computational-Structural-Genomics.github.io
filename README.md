@@ -45,4 +45,5 @@ Explore some of the tools, processes, and resources developed by our team below!
   - <i>Generates a report detailing the paralogs of your gene of interest, the conservation of residues adjacent to your residues of interest, and any annotations of those paralogs’ residues, including pathogenicity and associated phenotypes.</i>
 
 ## Meet Our Amazing Team!
-<b><a href="team.html">Click here</a></b>
+<img src="img/Lab_Photo_2024_ASHG.jpg" alt="Team Photo" style="width:50%">
+Everyone in our team was thrilled to present their work at the 2024 American Society of Human Genetics Conference in Denver, Colorado! To meet our team, <b><a href="team.html">click here</a></b>
